@@ -251,7 +251,7 @@ getgenv().ConfigsKaitun = {
 		["Auto Feed"] = true,
 
 		MutationPet = {
-			["Glimmering Sprite", "Sunny-Side Chicken"] = { "Glimmering","... any other" }
+			["Glimmering Sprite","Sunny-Side Chicken",] = { "Glimmering","... any other" }
 		},
 
 		["Start Delete Pet At"] = 15,
