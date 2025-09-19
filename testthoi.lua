@@ -24,12 +24,12 @@ getgenv().sabConfig = {
     IGNORE_BRAINROT_GENERATION_STOP_REBIRTH = 300000,  -- Stop Rebirth if have 300k+/s brainrot 
 
     -- Webhook
-    BRAINROT_WEBHOOK_URL = "",
+    BRAINROT_WEBHOOK_URL = "https://discord.com/api/webhooks/1413041868400492574/ekFjvEUdoWfRqZ_IKb5A07nrVo5PYYRSsgcGgIT6IXiVOaCytHPCZRm7P7f7azvc9JTV",
     NOTIFY_GENERATION = 300000,
     NOTIFY_NAME = { "Secret Lucky Block", "Admin Lucky Block", "Taco Lucky Block" },
     NOTIFY_RARITY = {},  -- "Secret", "Admin", "OG", any rarity
-    DISCORD_ID = "",
-    WEBHOOK_NOTE = "",
+    DISCORD_ID = "1165842656958611546",
+    WEBHOOK_NOTE = "vip",
     SHOW_WEBHOOK_USERNAME = true,
     SHOW_WEBHOOK_JOBID = true,
 }
